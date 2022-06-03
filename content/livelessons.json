@@ -1,0 +1,47 @@
+[
+	{
+		"title" :		"Cloud Native Java Livelessons (with Kubernetes)",
+		"htmlRef" : 	"/jl/blogpost/livelessons-cloud-native-java-with-kubernetes.html",
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/CNJAndk8sLL-2E.png" 
+	},
+	{
+		"title" :		"Reactive Spring Boot Livelessons (3rd Edition)",
+		"htmlRef" : 	"/jl/blogpost/livelessons-reactive-spring-3e.html",
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/ReactiveSpringLL-3E.jpg" 
+	},
+	{
+		"title" :		"Spring Boot and Kotlin Livelessons",
+		"htmlRef" : 	"/jl/blogpost/livelessons-spring-boot-and-kotlin.html", 
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/spring-boot-and-kotlin.jpg" 
+	},
+	{
+		"title" :		"Building Microservices with Spring Boot Livelessons ",
+		"htmlRef" : 	"/jl/blogpost/livelessons-building-microservices-with-spring-boot.html",
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/BuildMicroserviceswSpringBoot_2eLL.jpg"
+	},
+	{
+		"title" : 		"Spring Security Livelessons" , 
+		"htmlRef": 		"/jl/blogpost/livelessons-spring-security.html" ,
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/SpringSecurityLL.jpg" 
+	},
+	{
+		"title" :		"Applied Continuous Delivery Livelessons ",
+		"htmlRef" : 	"/jl/blogpost/livelessons-applied-continuous-delivery.html",
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/AppliedCDLL.jpg" 
+	}, 
+   	{
+		"title" :		"Spring Framework Livelessons",
+		"htmlRef" : 	"/jl/blogpost/livelessons-spring-framework.html",
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/SpringFrameworkLL.jpg" 
+	},
+	{
+		"title" :		"RESTful APIs with Spring Livelessons ",
+		"htmlRef" : 	"/jl/blogpost/livelessons-restful-spring.html",
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/RESTfulAPIswSpringLL.jpg" 
+	} ,
+   	{
+		"title" :		"Cloud Foundry Livelessons",
+		"htmlRef" : 	"/jl/blogpost/livelessons-cloudfoundry.html",
+		"imageUrl" : 	"https://api.joshlong.com/media/livelessons/CloudFoundryLL.jpg" 
+	}    
+]
